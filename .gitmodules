@@ -1,0 +1,6 @@
+[submodule "base-framework-core"]
+	path = base-framework-core
+	url = https://github.com/JustPlay1994/base-framework-core.git
+[submodule "base-framework-oauth2-server"]
+	path = base-framework-oauth2-server
+	url = https://github.com/JustPlay1994/base-framework-oauth2-server.git
